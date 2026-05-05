@@ -1,5 +1,4 @@
-# javascript-basics-ar
-JavaScript basics for beginners with examples , exercises , and mini projects .
+
 # JavaScript Basics for Beginners
 
 Educational JavaScript content for beginners covering:
